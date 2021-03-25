@@ -1,0 +1,1 @@
+console.log('executing external script made with JS');
