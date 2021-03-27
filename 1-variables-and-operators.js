@@ -16,11 +16,11 @@ console.log('The age of my 2 oldest sons together is: ' + ageTogether);
  * **********************************************************************************/
 
 var vehicle, color, colorVehicle;
-vehicle = 'car';
-color = 'red';
-colorVehicle = color + vehicle;
+friendSentence = 'My best friend is ';
+bestFriend = 'Anita';
+myBestFriend = friendSentence + bestFriend;
 
-console.log(colorVehicle);
+console.log(myBestFriend);
 
 /************************************************************************************
  * Crear dos variables de tipo String y sumar el largo de cada variable (cantidad de letras del string) guardando el resultado la suma una 3er variable (utilizar length).
